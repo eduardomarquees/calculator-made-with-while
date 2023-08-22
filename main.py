@@ -33,7 +33,7 @@ while True:
         continue
 
     if operacao == '5':
-        print('Saindo...')
+        print('Calculadora Encerrada...')
         break
 
     # if len(operacao) > 1:
